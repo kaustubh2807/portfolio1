@@ -2,7 +2,7 @@
 <html>
 <head>
      
-     <link rel="stylesheet" type="text/css" href="css/main.css">
+    
 </head>     
 <body>
 	<p><a href="file5.html"><strong>HOME</strong></a>  <a href="file6.html"><strong>ACADEMICS</strong></a>  <a href="file7.html"><strong>CONTACT</strong></a> <a href="file8.html"><strong>HOBBIES</strong></a>
